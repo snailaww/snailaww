@@ -3,7 +3,6 @@
 - 🗣️ 🇰🇷 🇺🇸/🇬🇧 
 
 ## 문제해결 프로그래밍을 합니다.
-- BOJ / solved.ac [[@snailaww]](https://www.acmicpc.net/user/snailaww)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=snailaww)](https://solved.ac/snailaww)
 
