@@ -8,8 +8,9 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=snailaww)](https://solved.ac/snailaww)
 
 ### 주요 수상 내역
+- 2026 한국정보올림피아드 중등부 2차 **만점 (400점)**
 - 🥇 2025 한국정보올림피아드 중등부 1차 금상
 - 🥈 2025 한국정보올림피아드 중등부 2차 은상
 
 ## AI를 공부합니다.
-- 가우시안 나이브 베이즈 분류기 시각화
+- Coming Soon
